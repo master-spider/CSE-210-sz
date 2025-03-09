@@ -1,0 +1,9 @@
+WHAT IS VERSION CONTROL AND WHY IS IT IMPORTANT?
+Version control is how a programmer keeps track of changes made in their program and
+it is very important so that changes can be tracked.
+Everytime a new change has been made to the program, the modified program is a newer version.
+Version control makes it easier to track an error in your program because all modifications are tagged clearly.
+For example an application used to print out receipts in a store can have a version which simply prints out
+the store name, items bought, and the total amount to be paid. A modified version can print out the store name,
+items bought, the total amount, the amount paid, the change if any, date and time of purchase and a thank you
+message.
