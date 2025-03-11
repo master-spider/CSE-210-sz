@@ -1,6 +1,11 @@
-public class WindowClass
+public class Window
 {
-  public double _width;
-  public double _height;
-  public string _color;
+    public double _width;
+    public double _height;
+    public string _color;
+    
+    public double GetArea()
+    {
+        return _width * _height;
+    }
 }
