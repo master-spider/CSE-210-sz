@@ -4,8 +4,8 @@ using System;
 
 public class Job
 {
-    string _company;
-    string _title;
-    double _startYear;
-    double _endYear;
+    public string _company;
+    public string _title;
+    public int _startYear;
+    public int _endYear;
 }
