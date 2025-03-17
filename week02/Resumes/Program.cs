@@ -16,8 +16,9 @@ class Program
         job2._title = "Manager";
         job2._startYear = 2022;
         job2._endYear = 2025;
-
-        Console.WriteLine(job1._company);
+        // call the JobDetails method for each job
+        job1.JobDetails();
+        job2.JobDetails();
 
     }
 }
